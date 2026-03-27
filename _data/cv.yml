@@ -4,7 +4,6 @@ cv:
   email: thuang407@gatech.edu
   location: Atlanta, GA
   image: ""
-  summary: Hi
 
   address:
     street: Georgia Tech Station
@@ -19,52 +18,25 @@ cv:
         location: Atlanta, GA
         url: https://www.gatech.edu/
         area: Electrical Engineering
-        studyType: B.S.
+        studyType: Bachelor of Science
         start_date: 2025
         end_date: 2028
         score: ""
-        courses: "Digital System Design"
+        courses: "Intro to Signal Processing, Digital System Design, Intro to Computing, Differential Equations, Linear Algebra"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Electronic Devices + Circuit Technology
+          - Expected Graduation - May 2028
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Uncommon Sense Lab, Georgia Tech
+        position: Undergraduate Research Assistant
+        location: Atlanta, GA
+        start_date: Sep 2025
+        end_date: Present
+        summary: Development of an accessible, at-home breast cancer screening device that profiles breast tissue to flag early signs of abnormalities.
         highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+          - Hardware Prototyping
+          - Signal Processing
 
     Skills:
       - name: Physics
