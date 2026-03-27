@@ -33,11 +33,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-started-my-undergraduate-studies-at-georgia-tech",
+            },},{id: "news-i-started-my-undergraduate-studies-at-georgia-tech",
           title: 'I started my undergraduate studies at Georgia Tech.',
+          description: "",
+          section: "News",},{id: "news-i-joined-the-uncommon-sense-lab-as-an-undergraduate-research-assistant",
+          title: 'I joined the Uncommon Sense Lab as an undergraduate research assistant.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
