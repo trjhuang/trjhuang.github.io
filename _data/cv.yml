@@ -1,16 +1,8 @@
 cv:
   name: Tu-Ruei Huang
-  label: Student
   email: thuang407@gatech.edu
-  location: Atlanta, GA
+  location: Atlanta, GA 30332
   image: ""
-
-  address:
-    street: Georgia Tech Station
-    city: Atlanta
-    region: Georgia
-    postalCode: GA 30332
-    countryCode: US
 
   sections:
     Education:
