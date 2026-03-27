@@ -23,12 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resume/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-started-my-undergraduate-studies-at-georgia-tech",
+        },{id: "news-i-started-my-undergraduate-studies-at-georgia-tech",
           title: 'I started my undergraduate studies at Georgia Tech.',
           description: "",
           section: "News",},{id: "news-i-joined-the-uncommon-sense-lab-as-an-undergraduate-research-assistant",
