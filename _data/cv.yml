@@ -1,9 +1,4 @@
 cv:
-  name: Tu-Ruei Huang
-  email: thuang407@gatech.edu
-  location: Atlanta, GA 30332
-  image: ""
-
   sections:
     Education:
       - institution: Georgia Institute of Technology
@@ -11,13 +6,12 @@ cv:
         url: https://www.gatech.edu/
         area: Electrical Engineering
         studyType: Bachelor of Science
-        start_date: 2025
-        end_date: 2028
+        start_date: Aug 2025
+        end_date: May 2028
         score: ""
-        courses: "Intro to Signal Processing, Digital System Design, Intro to Computing, Differential Equations, Linear Algebra"
+        courses: "Coursework: Intro to Signal Processing, Digital System Design, Intro to Computing, Differential Equations, Linear Algebra"
         highlights:
-          - Electronic Devices + Circuit Technology
-          - Expected Graduation - May 2028
+          - "Concentrations: Electronic Devices & Circuit Technology"
 
     Experience:
       - company: Uncommon Sense Lab, Georgia Tech
@@ -26,28 +20,32 @@ cv:
         start_date: Sep 2025
         end_date: Present
         summary: Development of an accessible, at-home breast cancer screening device that profiles breast tissue to flag early signs of abnormalities.
-        highlights:
-          - Hardware Prototyping
-          - Signal Processing
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Hardware Design
+        icon: fa-solid fa-microchip
+        keywords: "Altium Designer"
+
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "Python, MATLAB"
+
+      - name: Lab & Fabrication
+        icon: fa-solid fa-screwdriver-wrench
+        keywords: "Laser Etching, PCB Soldering & Assembly, Logic Analyzers"
 
     Languages:
       - name: English
-        summary: "Native speaker"
+        summary: "Native"
 
       - name: Mandarin Chinese
-        summary: "Native speaker"
+        summary: "Native"
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: ACT Driving Simulator
+        summary: Model fine-tuning, vehicle trajectory plotting, and CARLA simulation for autonomous vehicle operations.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Vertically Integrated Projects Program
+          - Autonomous and Connected Transportation Lab, Georgia Tech
+        start_date: 2025-08-01
+        end_date: 2025-12-01
