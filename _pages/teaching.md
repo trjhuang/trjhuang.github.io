@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Career Goals
+title: career goals
 permalink: /goals/
 description: A look at my long-term aspirations and the step-by-step journey to achieve them.
 nav: true
