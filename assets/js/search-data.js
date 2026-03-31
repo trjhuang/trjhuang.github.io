@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resume/";
           },
+        },{id: "nav-career-goals",
+          title: "Career Goals",
+          description: "A look at my long-term aspirations and the step-by-step journey to achieve them.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/goals/";
+          },
         },{id: "news-i-started-my-undergraduate-studies-at-georgia-tech",
           title: 'I started my undergraduate studies at Georgia Tech.',
           description: "",
