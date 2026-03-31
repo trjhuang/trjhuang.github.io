@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A collection of my hardware design, computational modeling, and research projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/resume/";
           },
         },{id: "nav-career-goals",
-          title: "Career Goals",
+          title: "career goals",
           description: "A look at my long-term aspirations and the step-by-step journey to achieve them.",
           section: "Navigation",
           handler: () => {
@@ -43,51 +43,21 @@ ninja.data = [{
           section: "News",},{id: "news-i-joined-the-uncommon-sense-lab-as-an-undergraduate-research-assistant",
           title: 'I joined the Uncommon Sense Lab as an undergraduate research assistant.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-act-driving-simulator",
+          title: 'ACT Driving Simulator',
+          description: "Leveraging LLMs for autonomous vehicle operations and trajectory analysis.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-borohma-igem",
+          title: 'Borohma (iGEM)',
+          description: "Computational modeling for the bioproduction of insect repellents.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-magnetic-door-alarm",
+          title: 'Magnetic Door Alarm',
+          description: "Designed and built a custom circuit for a reed-switch security alarm system.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
