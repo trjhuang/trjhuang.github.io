@@ -1,12 +1,16 @@
 ---
-layout: cv
+layout: page
 permalink: /resume/
 title: resume
+description: Hey! Here's my resume. Feel free to view it below or download a copy.
 nav: true
 nav_order: 4
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
 ---
+
+You can check out my resume right here on the page, or **[click here to download the PDF]({{ '/assets/pdf/thuang_resume.pdf' | relative_url }})**.
+
+<br>
+
+<iframe src="{{ '/assets/pdf/thuang_resume.pdf' | relative_url }}" width="100%" height="800px" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it.
+</iframe>
