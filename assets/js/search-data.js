@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resume/";
           },
+        },{id: "nav-people",
+          title: "people",
+          description: "members of the lab or group",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
         },{id: "news-i-started-my-undergraduate-studies-at-georgia-tech",
           title: 'I started my undergraduate studies at Georgia Tech.',
           description: "",
