@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-resume",
           title: "resume",
-          description: "Hey! Here&#39;s my resume. Feel free to view it below or download a copy.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/resume/";
@@ -53,9 +53,9 @@ ninja.data = [{
           description: "An L-borneol-based minicell insect-repellent fragrance",
           section: "Projects",handler: () => {
               window.location.href = "/projects/borohma/";
-            },},{id: "projects-magnetic-door-alarm",
-          title: 'Magnetic Door Alarm',
-          description: "Designed and built a custom circuit for a reed-switch security alarm system.",
+            },},{id: "projects-discovery-project",
+          title: 'Discovery Project',
+          description: "Custom circuit for a reed-switch security alarm system.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ece1100_discovery_project/";
             },},{
