@@ -23,4 +23,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m an Electrical Engineering student at Georgia Tech with a strong interest in building hardware-driven solutions that address real-world problems. My work spans PCB design, embedded systems, and applied machine learning, with hands-on experience in research, autonomous systems, and biomedical device development. Beyond engineering, I bring a collaborative and global perspective shaped by my multicultural background.
+Electrical engineering undergraduate at Georgia Tech with a focus on the intersection of device-level semiconductors and integrated circuit design. I aim to build the next generation of hardware that powers real-world innovation, bringing a collaborative and global perspective shaped by my multicultural background.

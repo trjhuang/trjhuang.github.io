@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of my hardware design, computational modeling, and research projects.
+description:
 nav: true
 nav_order: 3
 horizontal: false
