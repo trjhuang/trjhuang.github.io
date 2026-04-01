@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Email: thuang407@gatech.edu, turuei.huang@gmail.com
+subtitle: "<strong>Email:</strong> thuang407@gatech.edu, turuei.huang@gmail.com"
 
 profile:
   align: right
