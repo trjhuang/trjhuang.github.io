@@ -26,7 +26,8 @@ A critical challenge in autonomous systems is translating raw, programmatic driv
 
 * **Model Selection & Quantization:** Utilized the `Qwen/Qwen2.5-7B-Instruct` model. To ensure memory efficiency during training, the model was loaded using 4-bit quantization (via `bitsandbytes`).
 * **LoRA Fine-Tuning:** Applied Low-Rank Adaptation targeting the attention and feed-forward modules ($r=16$, $\alpha=32$). This drastically reduced the number of trainable parameters while maintaining the model's high reasoning capabilities.
-* **End-to-End Pipeline:** 1.  **Scenario Description Generation:** The model successfully learned to ingest Scenic context snippets (map features, agent behaviors, spatial relations) and generate concise, accurate natural language descriptions. 
+* **End-to-End Pipeline:**
+    1.  **Scenario Description Generation:** The model successfully learned to ingest Scenic context snippets (map features, agent behaviors, spatial relations) and generate concise, accurate natural language descriptions. 
     2.  **Maneuver Prediction:** The generated descriptions were then fed back into the model to predict a semicolon-separated sequence of high-level driving maneuvers from a predefined vocabulary.
 
 ---
