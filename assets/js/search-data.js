@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-home",
-    title: "home",
+    id: "nav-",
+    title: "",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -47,17 +47,17 @@ ninja.data = [{
           title: 'ACT Driving Simulator',
           description: "Leveraging LLMs for autonomous vehicle operations and trajectory analysis.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/act_driving_simulator/";
             },},{id: "projects-borohma-igem",
           title: 'Borohma (iGEM)',
           description: "Computational modeling for the bioproduction of insect repellents.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/borohma/";
             },},{id: "projects-magnetic-door-alarm",
           title: 'Magnetic Door Alarm',
           description: "Designed and built a custom circuit for a reed-switch security alarm system.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/ece1100_discovery_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
