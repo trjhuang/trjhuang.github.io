@@ -23,4 +23,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Electrical Engineering undergraduate at [**Georgia Tech**](https://www.gatech.edu/){:target="_blank" rel="noopener noreferrer"}. with a focus on the intersection of device-level semiconductors and integrated circuit design. I aim to build the next generation of hardware that powers real-world innovation, bringing a collaborative and global perspective shaped by my multicultural background.
+Electrical Engineering undergraduate at [Georgia Tech](https://www.gatech.edu/). with a focus on the intersection of device-level semiconductors and integrated circuit design. I aim to build the next generation of hardware that powers real-world innovation, bringing a collaborative and global perspective shaped by my multicultural background.

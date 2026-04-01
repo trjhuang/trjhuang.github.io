@@ -2,7 +2,7 @@
 layout: page
 title: ACT Driving Simulator
 description: Leveraging LLMs for autonomous vehicle operations.
-img: assets/img/act_simulator.jpg # Update with your actual image filename
+img: assets/img/act_driving_simulator.jpg # Update with your actual image filename
 importance: 1
 ---
 

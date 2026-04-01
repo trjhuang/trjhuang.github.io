@@ -2,7 +2,7 @@
 layout: page
 title: Borohma
 description:  An L-borneol-based minicell insect-repellent fragrance
-img: assets/img/borohma_igem.jpg # Update with your actual image filename
+img: assets/img/borohma.jpg # Update with your actual image filename
 importance: 2
 ---
 
