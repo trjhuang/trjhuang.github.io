@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-about",
           title: "about",
-          description: "A detailed look at my background, research, and journey.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/about/";
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A collection of my hardware design, computational modeling, and research projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-career-goals",
           title: "career goals",
-          description: "A look at my long-term aspirations and the step-by-step journey to achieve them.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/goals/";
@@ -45,12 +45,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-act-driving-simulator",
           title: 'ACT Driving Simulator',
-          description: "Leveraging LLMs for autonomous vehicle operations and trajectory analysis.",
+          description: "Leveraging LLMs for autonomous vehicle operations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/act_driving_simulator/";
-            },},{id: "projects-borohma-igem",
-          title: 'Borohma (iGEM)',
-          description: "Computational modeling for the bioproduction of insect repellents.",
+            },},{id: "projects-borohma",
+          title: 'Borohma',
+          description: "An L-borneol-based minicell insect-repellent fragrance",
           section: "Projects",handler: () => {
               window.location.href = "/projects/borohma/";
             },},{id: "projects-magnetic-door-alarm",
