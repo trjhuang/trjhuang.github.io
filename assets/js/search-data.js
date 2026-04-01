@@ -49,7 +49,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/act_driving_simulator/";
             },},{id: "projects-borohma",
-          title: 'BOROHMA',
+          title: 'Borohma',
           description: "An L-borneol-based minicell insect-repellent fragrance.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/borohma/";
