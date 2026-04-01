@@ -7,9 +7,12 @@ importance: 2
 ---
 
 **International Genetically Engineered Machine (iGEM) Competition**
+
 *Dry Lab Sub-Team Lead (March – October 2024)*
 
+
 [**🔗 View Project Wiki**](https://2024.igem.wiki/formosa/index){:target="_blank" rel="noopener noreferrer"}
+
 
 Our iGEM team investigated the bioproduction of a camphor-based insect repellent designed to replace traditional, potentially harmful chemical compounds. As the Dry Lab Sub-Team Lead, I spearheaded the computational modeling and digital infrastructure for the project.
 

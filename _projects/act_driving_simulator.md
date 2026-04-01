@@ -7,9 +7,12 @@ importance: 1
 ---
 
 **Autonomous and Connected Transportation Lab, Georgia Tech**
+
 *Georgia Tech Vertically Integrated Projects Program (Fall 2025)*
 
+
 [**🔗 View Team Page**](https://vip.gatech.edu/teams-all-in-one/entry/1342/){:target="_blank" rel="noopener noreferrer"}
+
 
 In this project, I collaborated with a team of eight researchers to explore how Large Language Models (LLMs) can be integrated into autonomous vehicle operations. Our goal was to enhance vehicle analysis and prediction capabilities using real-world driving data.
 

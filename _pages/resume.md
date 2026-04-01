@@ -2,12 +2,12 @@
 layout: page
 permalink: /resume/
 title: resume
-description: Hey! Here's my resume. Feel free to view it below or download a copy.
+description:
 nav: true
 nav_order: 4
 ---
 
-You can check out my resume right here on the page, or **[click here to download the PDF]({{ '/assets/pdf/thuang_resume.pdf' | relative_url }})**.
+You can view my resume right below, or **[click here to download the PDF]({{ '/assets/pdf/thuang_resume.pdf' | relative_url }})**.
 
 <br>
 
