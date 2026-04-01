@@ -14,8 +14,6 @@ importance: 1
 [**🔗 View Team Page**](https://vip.gatech.edu/teams-all-in-one/entry/1342/){:target="_blank" rel="noopener noreferrer"}
 
 
-In this project, I collaborated with a team of eight researchers to explore how Large Language Models (LLMs) can be integrated into autonomous vehicle operations. Our goal was to enhance vehicle analysis and prediction capabilities using real-world driving data.
+This project demonstrates a comprehensive, end-to-end approach to applying advanced machine learning techniques within the autonomous driving domain. By integrating natural language processing (NLP) with spatial trajectory data, both high-level semantic scenario understanding and low-level vehicle trajectory prediction are covered.
 
-### Key Contributions:
-* **Model Fine-Tuning:** Fine-tuned a T5 model to improve the accuracy of vehicle analysis, rigorously comparing our predictions against baseline models to validate performance improvements.
-* **Data Visualization:** Generated and plotted complex vehicle trajectory data utilizing Waymo's open motion dataset, providing clear visual insights into the model's predictive behavior.
+The work is unified by a focus on efficient model adaptation, leveraging Parameter-Efficient Fine-Tuning (PEFT) and Low-Rank Adaptation (LoRA) to deploy state-of-the-art Large Language Models (LLMs) like Qwen 2.5 and T5 without requiring massive compute resources.
